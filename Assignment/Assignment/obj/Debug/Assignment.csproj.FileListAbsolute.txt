@@ -1,0 +1,7 @@
+G:\SimpliLearn\Assignments\Read from Text File with Searching and Sorting\Assignment\Assignment\bin\Debug\Assignment.exe.config
+G:\SimpliLearn\Assignments\Read from Text File with Searching and Sorting\Assignment\Assignment\bin\Debug\Assignment.exe
+G:\SimpliLearn\Assignments\Read from Text File with Searching and Sorting\Assignment\Assignment\bin\Debug\Assignment.pdb
+G:\SimpliLearn\Assignments\Read from Text File with Searching and Sorting\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+G:\SimpliLearn\Assignments\Read from Text File with Searching and Sorting\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+G:\SimpliLearn\Assignments\Read from Text File with Searching and Sorting\Assignment\Assignment\obj\Debug\Assignment.exe
+G:\SimpliLearn\Assignments\Read from Text File with Searching and Sorting\Assignment\Assignment\obj\Debug\Assignment.pdb
